@@ -4,7 +4,7 @@
 
 <!-- Actual text -->
 
-#### I love learning and implementing! 
+#### Learning never stops! 
 
 
 
