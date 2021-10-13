@@ -4,7 +4,9 @@
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][1.2]][1]
+You can find me on 
+
+[![LinkedIn][1.2]][1]
 
 [1.2]:  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
