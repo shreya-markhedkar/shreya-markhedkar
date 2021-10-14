@@ -16,7 +16,7 @@ Here are some ideas to get you started:-->
 ### 🔭 I’m currently creating projects using  
 
 ![][3]   ![][4]  ![][9] </br>
-![][2] ![][8] 
+![][2] ![][8] ![][12] ![][13]
 
 
 [2]: https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen
@@ -24,8 +24,12 @@ Here are some ideas to get you started:-->
 [4]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [8]: https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white
 [9]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[12]: https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white
+[13]: https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white
 ### ⚡ I also know: 
- ![][6]  ![][7]
+ ![][6]  ![][7]  ![][11]
+ 
+ [11]: https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 ### 🌱 I’m currently learning </br>
 ![][5]  ![][10]
 
