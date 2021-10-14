@@ -38,13 +38,18 @@ Here are some ideas to get you started:-->
 [6]: https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 [7]: https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
 [10]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-### 📫 How to reach me: </br>
 
+
+### ✨ My GitHub
+![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreya-markhedkar&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-markhedkar&layout=compact&theme=highcontrast)
+
+
+### 📫 How to reach me: </br>
 [![LinkedIn][1.2]][1]
 
 [1.2]:  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 [1]: https://www.linkedin.com/in/shreya-markhedkar-2299421b7/
-
-
 
