@@ -15,7 +15,7 @@ Here are some ideas to get you started:-->
 
 ### 🔭 I’m currently creating projects using  
 
-![][3]   ![][4]  ![][9] </br>
+![][3]   ![][4]  ![][9] ![][5]  </br>
 ![][2] ![][8] ![][12] ![][13]
 
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:-->
  
  [11]: https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 ### 🌱 I’m currently learning </br>
-![][5]  ![][10]
+![][10]
 
 
 [5]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
