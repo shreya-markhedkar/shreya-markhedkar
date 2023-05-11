@@ -30,8 +30,8 @@ Here are some ideas to get you started:-->
  ![][6]  ![][7]  ![][11]
  
  [11]: https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
-### 🌱 I’m currently learning </br>
-![][10]
+<!-- ### 🌱 I’m currently learning </br>
+![][10] -->
 
 
 [5]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
